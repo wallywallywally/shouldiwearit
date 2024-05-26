@@ -1,3 +1,9 @@
+# DATA
+data/clothing
+
+# MODELS
+devito
+*.pth
 
 *.jpg
 *.ini
