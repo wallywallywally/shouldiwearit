@@ -7,3 +7,7 @@ devito
 
 *.jpg
 *.ini
+model/cihp_pgn/model.ckpt-593292.data-00000-of-00001
+model/openpose/bin/opencv_world420d.dll
+model/openpose/bin/cublas64_11.dll
+model/openpose/bin/cublasLt64_11.dll
